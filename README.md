@@ -1,4 +1,5 @@
-### Hi there 👋
+
+Hi, I'm Daniel, interested in work with Back-end or FullStack. I have knowledge in Node.js, REST, React, JavaScript. Looking for new opportunities
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danieldsrd&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsrd&langs_count=5&theme=tokyonight)]()
