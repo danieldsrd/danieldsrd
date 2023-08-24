@@ -1,5 +1,4 @@
 ### Bem-vindo ao meu GitHub,
- Tenho interesse em trabalhar com Back-End ou FullStack. Tenho prática e conhecimento em Node.js, REST, React, JavaScript. Procurando por novas oportunidades.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danieldsrd&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsrd&langs_count=5&theme=tokyonight)]()
